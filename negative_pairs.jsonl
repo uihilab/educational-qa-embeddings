@@ -1,0 +1,487 @@
+{"sentence1": "Instructor", "sentence2": "TA", "label": 0}
+{"sentence1": "Professor", "sentence2": "Teaching Assistant", "label": 0}
+{"sentence1": "Lecturer", "sentence2": "Lab Assistant", "label": 0}
+{"sentence1": "Credit Hours", "sentence2": "Office Hours", "label": 0}
+{"sentence1": "Semester Hours", "sentence2": "Instructor Consultation Time", "label": 0}
+{"sentence1": "Midterms", "sentence2": "Final Project", "label": 0}
+{"sentence1": "Homework Assignments", "sentence2": "Midterms", "label": 0}
+{"sentence1": "Office Hours", "sentence2": "Attendance Policy", "label": 0}
+{"sentence1": "Meeting Time", "sentence2": "Plagiarism Policy", "label": 0}
+{"sentence1": "Lab Sessions", "sentence2": "Final Project", "label": 0}
+{"sentence1": "Homework", "sentence2": "Laboratory Classes", "label": 0}
+{"sentence1": "Final Exam", "sentence2": "Learning Outcomes", "label": 0}
+{"sentence1": "Quizzes", "sentence2": "Student Learning Goals", "label": 0}
+{"sentence1": "Spring Break", "sentence2": "Term Paper", "label": 0}
+{"sentence1": "Fall Break", "sentence2": "Credit Hours", "label": 0}
+{"sentence1": "Pre-requisites", "sentence2": "Attendance Policy", "label": 0}
+{"sentence1": "Grading Policy", "sentence2": "Office Hours", "label": 0}
+{"sentence1": "The instructor will email homework assignments each week.", "sentence2": "The TA supervises lab work on Wednesdays.", "label": 0}
+{"sentence1": "Please see the professor for grading issues.", "sentence2": "The teaching assistant is responsible for lab safety supervision.", "label": 0}
+{"sentence1": "Your lecturer is Dr. Reed.", "sentence2": "The lab assistant manages the sign-in sheets.", "label": 0}
+{"sentence1": "You will receive 3 credit hours for this class.", "sentence2": "Office hours are in the student success center.", "label": 0}
+{"sentence1": "Semester hours determine your academic load.", "sentence2": "Instructor consultation time is posted on the office door.", "label": 0}
+{"sentence1": "The first midterm is on October 1.", "sentence2": "Your final project topic must be approved in week five.", "label": 0}
+{"sentence1": "Homework assignments are due every Friday.", "sentence2": "The midterm is scheduled for March 4th.", "label": 0}
+{"sentence1": "Attend office hours for extra instruction.", "sentence2": "The attendance policy will be discussed at the start of class.", "label": 0}
+{"sentence1": "Check your meeting time on the syllabus.", "sentence2": "The university\u2019s plagiarism policy is available online.", "label": 0}
+{"sentence1": "Lab sessions begin in week two.", "sentence2": "Submit your final project on the last day of class.", "label": 0}
+{"sentence1": "This week\u2019s homework focuses on reading Chapter 4.", "sentence2": "Laboratory classes are on Tuesdays and Thursdays.", "label": 0}
+{"sentence1": "The final exam is on December 15th.", "sentence2": "Learning outcomes are described in the first section of the syllabus.", "label": 0}
+{"sentence1": "Quizzes are unannounced and brief.", "sentence2": "Our student learning goals are listed in the course outline.", "label": 0}
+{"sentence1": "Spring break is from March 18 to 22.", "sentence2": "Your term paper must be ten pages minimum.", "label": 0}
+{"sentence1": "Fall break is October 10-12.", "sentence2": "You must earn at least 12 credit hours to stay full-time.", "label": 0}
+{"sentence1": "Check the course catalog for pre-requisites.", "sentence2": "Refer to the class attendance rules for absence documentation.", "label": 0}
+{"sentence1": "Please read the grading policy section.", "sentence2": "My office hours are posted just outside my door.", "label": 0}
+{"sentence1": "Plagiarism will result in failure of the assignment.", "sentence2": "You can find the laboratory schedule on the class website.", "label": 0}
+{"sentence1": "Attendance at tutorials is mandatory.", "sentence2": "Essay feedback is available during help sessions.", "label": 0}
+{"sentence1": "Assignments must be submitted online.", "sentence2": "Students receiving academic support services must check in weekly.", "label": 0}
+{"sentence1": "The instructor will be unavailable during spring break.", "sentence2": "Assignments are due every Friday by midnight.", "label": 0}
+{"sentence1": "The course has a required textbook.", "sentence2": "You must attend ten seminars throughout the semester.", "label": 0}
+{"sentence1": "No food or drink is allowed in the lab.", "sentence2": "Homework must be submitted on the course website.", "label": 0}
+{"sentence1": "The midterm will cover chapters 1-6.", "sentence2": "Group projects are due at the end of the term.", "label": 0}
+{"sentence1": "Please silence your phone before class.", "sentence2": "Required readings are available in the campus bookstore.", "label": 0}
+{"sentence1": "Feedback will be returned within two weeks.", "sentence2": "Make sure to use proper citation format in your paper.", "label": 0}
+{"sentence1": "The professor\u2019s office is in building B.", "sentence2": "Students are expected to wear lab coats.", "label": 0}
+{"sentence1": "You need to register for lab sections.", "sentence2": "Course announcements will be sent through email.", "label": 0}
+{"sentence1": "You can use laptops for note-taking.", "sentence2": "No make-up exams will be permitted.", "label": 0}
+{"sentence1": "Guest speakers will visit in March.", "sentence2": "Lab safety training must be completed before using equipment.", "label": 0}
+{"sentence1": "Assignment deadlines are posted online.", "sentence2": "Class meets every Monday and Wednesday.", "label": 0}
+{"sentence1": "Penalties apply for late submissions.", "sentence2": "The midterm will be multiple-choice and essay.", "label": 0}
+{"sentence1": "Students are encouraged to participate in discussions.", "sentence2": "Bring your calculator to all exams.", "label": 0}
+{"sentence1": "Final grades will be posted after finals week.", "sentence2": "Office hours are from 1 to 3 PM every Tuesday.", "label": 0}
+{"sentence1": "All essays should be double-spaced.", "sentence2": "Lab sessions begin in week two.", "label": 0}
+{"sentence1": "You cannot drop the course after the second week.", "sentence2": "The first quiz is scheduled for September 10th.", "label": 0}
+{"sentence1": "Course credit is three hours.", "sentence2": "Meetings take place in room 310.", "label": 0}
+{"sentence1": "The lab manual is required.", "sentence2": "Attendance will be recorded every class.", "label": 0}
+{"sentence1": "Labs begin in the second week.", "sentence2": "Late assignments will not be accepted.", "label": 0}
+{"sentence1": "Class slides are uploaded after each meeting.", "sentence2": "Research topics must be submitted during week five.", "label": 0}
+{"sentence1": "Check your university email regularly.", "sentence2": "Midterm grades are determined by your test average.", "label": 0}
+{"sentence1": "Attendance at tutorials is mandatory.", "sentence2": "Students must use APA format for all citations.", "label": 0}
+{"sentence1": "Grading questions should be sent to the instructor.", "sentence2": "Assignments can be submitted in either Word or PDF.", "label": 0}
+{"sentence1": "Readings must be finished before lectures.", "sentence2": "Exams use a multiple-choice format.", "label": 0}
+{"sentence1": "The course outline is posted on the website.", "sentence2": "You must have completed the prerequisite to enroll.", "label": 0}
+{"sentence1": "Participation affects your final grade.", "sentence2": "Bring your laptop to class for the group activity.", "label": 0}
+{"sentence1": "A final paper is due in December.", "sentence2": "Class evaluations will be distributed in October.", "label": 0}
+{"sentence1": "Ten weekly readings are assigned.", "sentence2": "Accommodations can be arranged through student services.", "label": 0}
+{"sentence1": "Only two absences are excused.", "sentence2": "Required books are available at the library.", "label": 0}
+{"sentence1": "The final covers all units.", "sentence2": "You may bring reference materials to the open-book test.", "label": 0}
+{"sentence1": "Use the university email for correspondence.", "sentence2": "Peer feedback is required in all workshops.", "label": 0}
+{"sentence1": "Required articles are on reserve.", "sentence2": "Students may select their own project teams.", "label": 0}
+{"sentence1": "Notes can be used during open-book exams.", "sentence2": "Handouts are distributed electronically.", "label": 0}
+{"sentence1": "The TA will lead review sessions.", "sentence2": "Withdrawal after week three requires approval.", "label": 0}
+{"sentence1": "Grades are assigned on a 4.0 scale.", "sentence2": "Quizzes will be given during classes throughout the semester.", "label": 0}
+{"sentence1": "Disability services are provided upon request.", "sentence2": "The class website has the updated syllabus.", "label": 0}
+{"sentence1": "Citations must be in APA style.", "sentence2": "Attendance will be tracked by sign-in sheets.", "label": 0}
+{"sentence1": "Exams will take place in the gymnasium.", "sentence2": "All homework must be uploaded to the online system.", "label": 0}
+{"sentence1": "The class begins in January.", "sentence2": "Lab reports are due after each session.", "label": 0}
+{"sentence1": "Textbooks should be purchased by week one.", "sentence2": "Submit assignments as PDFs through the portal.", "label": 0}
+{"sentence1": "Homework must be typed.", "sentence2": "Field trip attendance is required for course credit.", "label": 0}
+{"sentence1": "Students are assigned research partners.", "sentence2": "Exam reviews will be available online.", "label": 0}
+{"sentence1": "Weekly quizzes are unannounced.", "sentence2": "Library access is granted to all registered students.", "label": 0}
+{"sentence1": "You are allowed three unexcused absences.", "sentence2": "Extra credit assignments will be posted in week eight.", "label": 0}
+{"sentence1": "Feedback on group projects will be provided.", "sentence2": "AP credit satisfies the program prerequisite.", "label": 0}
+{"sentence1": "You must submit assignments via Turnitin.", "sentence2": "Peer mentorship is available to all first-year students.", "label": 0}
+{"sentence1": "Field trips take place in October.", "sentence2": "Final presentations will be scheduled the last week.", "label": 0}
+{"sentence1": "Students must buy lab goggles.", "sentence2": "Quizzes are graded on a curve.", "label": 0}
+{"sentence1": "Lab reports count for 25% of your grade.", "sentence2": "Research proposals are submitted in midsemester.", "label": 0}
+{"sentence1": "Personal laptops are not permitted.", "sentence2": "Group project teams will be announced next week.", "label": 0}
+{"sentence1": "A student ID is required for exams.", "sentence2": "All students must have health insurance.", "label": 0}
+{"sentence1": "All sources must be cited.", "sentence2": "Online forums are monitored for appropriate conduct.", "label": 0}
+{"sentence1": "Bring a pen to each test.", "sentence2": "Extra help is available at the learning center.", "label": 0}
+{"sentence1": "Class meets in room A105.", "sentence2": "Online lectures are accessed through Canvas.", "label": 0}
+{"sentence1": "Withdrawal deadlines are in the university calendar.", "sentence2": "Monitoring attendance is part of the university policy.", "label": 0}
+{"sentence1": "Lab notebooks are reviewed weekly.", "sentence2": "The grading scheme will be updated in week three.", "label": 0}
+{"sentence1": "The department hosts a welcome reception.", "sentence2": "Tutorials are provided on Saturday mornings.", "label": 0}
+{"sentence1": "You must return all library books.", "sentence2": "Group presentations are evaluated by peers and by the instructor.", "label": 0}
+{"sentence1": "Extra credit is optional.", "sentence2": "Computers may be borrowed from the library.", "label": 0}
+{"sentence1": "Contact the registrar for transcript requests.", "sentence2": "Grading rubrics will be attached to each assignment.", "label": 0}
+{"sentence1": "All homework is submitted electronically.", "sentence2": "Tuition payment information is available through the bursar\u2019s office.", "label": 0}
+{"sentence1": "Final projects must be presented orally.", "sentence2": "Course announcements are posted weekly.", "label": 0}
+{"sentence1": "Group assignments require collaboration.", "sentence2": "Peer assessment involves submitting online reviews.", "label": 0}
+{"sentence1": "The professor travels for research in May.", "sentence2": "Independent study requests should be made in week nine.", "label": 0}
+{"sentence1": "Lab partners are the same all semester.", "sentence2": "Office hours are scheduled for after class.", "label": 0}
+{"sentence1": "Tutoring is available for this subject.", "sentence2": "You need a parking permit for campus visits.", "label": 0}
+{"sentence1": "Weekly readings cover contemporary topics.", "sentence2": "The final is a comprehensive exam.", "label": 0}
+{"sentence1": "Handouts are emailed after each class.", "sentence2": "Departmental guidelines are found in the handbook.", "label": 0}
+{"sentence1": "Missing three classes results in a lower grade.", "sentence2": "Math labs require scientific calculators.", "label": 0}
+{"sentence1": "Library orientation is in the first week.", "sentence2": "Exam rescheduling must be approved by the dean.", "label": 0}
+{"sentence1": "Requirements for the major are in the bulletin.", "sentence2": "Your class schedule is available online.", "label": 0}
+{"sentence1": "Scheduled exams may be rescheduled with evidence.", "sentence2": "Consultation time is available every Thursday.", "label": 0}
+{"sentence1": "The classroom number is listed in the portal.", "sentence2": "Review sessions take place before major exams.", "label": 0}
+{"sentence1": "Honor code violations are very serious.", "sentence2": "Writing workshops are included in the curriculum.", "label": 0}
+{"sentence1": "Assignment topics vary by semester.", "sentence2": "Student IDs must be displayed at all times.", "label": 0}
+{"sentence1": "All quizzes are closed-book.", "sentence2": "Peer reviews are graded on participation.", "label": 0}
+{"sentence1": "You can request an extension for assignments.", "sentence2": "Grading is finalized after the last week of class.", "label": 0}
+{"sentence1": "Labs are supervised by the TA.", "sentence2": "Essay outlines are due for feedback.", "label": 0}
+{"sentence1": "Fieldwork is required for Anthropology majors.", "sentence2": "Language proficiency tests are administered in week two.", "label": 0}
+{"sentence1": "Course forums are checked daily.", "sentence2": "Document all your sources in each project.", "label": 0}
+{"sentence1": "Sign-up for recitation sections online.", "sentence2": "Group feedback is discussed after presentations.", "label": 0}
+{"sentence1": "Syllabus changes are emailed to students.", "sentence2": "Extra readings can be found on the website.", "label": 0}
+{"sentence1": "Workshops are hosted online and in person.", "sentence2": "Final grades are calculated based on total points.", "label": 0}
+{"sentence1": "Class will not meet on public holidays.", "sentence2": "Assigned peer mentors provide additional support.", "label": 0}
+{"sentence1": "Computer sessions occur every Friday.", "sentence2": "Course evaluations influence next year\u2019s syllabus.", "label": 0}
+{"sentence1": "A passing lab grade is required to pass.", "sentence2": "Departmental events are posted on the notice board.", "label": 0}
+{"sentence1": "Exam seating assignments are posted one week before.", "sentence2": "Requests for absence must be submitted in writing.", "label": 0}
+{"sentence1": "Deadline for project ideas is week four.", "sentence2": "Each assignment must be submitted on time.", "label": 0}
+{"sentence1": "Data analysis is part of the statistics module.", "sentence2": "Academic support can be arranged for individual needs.", "label": 0}
+{"sentence1": "Writing labs are held in building D.", "sentence2": "Plagiarism checks are conducted on all major papers.", "label": 0}
+{"sentence1": "Satisfactory completion of presentations is mandatory.", "sentence2": "Class recordings can be streamed any time.", "label": 0}
+{"sentence1": "Field trip forms must be signed.", "sentence2": "Lecture podcasts are uploaded after each session.", "label": 0}
+{"sentence1": "Seminars address current events in the discipline.", "sentence2": "Computation modules are due before the last exam.", "label": 0}
+{"sentence1": "Grades are released on the web portal.", "sentence2": "All email inquiries are answered within two business days.", "label": 0}
+{"sentence1": "The quiz schedule is posted on the course site.", "sentence2": "Attendance policy is stated in the student handbook.", "label": 0}
+{"sentence1": "The required textbook is the third edition.", "sentence2": "Project deadlines fall at the end of the semester.", "label": 0}
+{"sentence1": "Midterm feedback sessions are held after grades are posted.", "sentence2": "Recording of lectures is permitted with prior approval.", "label": 0}
+{"sentence1": "Course credit does not count towards your major.", "sentence2": "Department approval is required for all overrides.", "label": 0}
+{"sentence1": "Your class starts at 9:00 AM.", "sentence2": "You will be assigned a seat for the finals.", "label": 0}
+{"sentence1": "Independent studies must be approved.", "sentence2": "Participation in online discussions will be tracked.", "label": 0}
+{"sentence1": "All course announcements will be online.", "sentence2": "Team leaders are chosen in week one.", "label": 0}
+{"sentence1": "Exams are scanned for evaluation.", "sentence2": "Use only the readings listed on the syllabus.", "label": 0}
+{"sentence1": "Students should remain in class until dismissed.", "sentence2": "Meeting with your advisor is recommended before graduation.", "label": 0}
+{"sentence1": "Office hours are Monday mornings from 8 to 9 am.", "sentence2": "The exam room will be announced one week before the test.", "label": 0}
+{"sentence1": "Homework is graded for correctness.", "sentence2": "Attendance is part of the participation grade.", "label": 0}
+{"sentence1": "TAs can help you with assignment questions.", "sentence2": "All written exams are open-book.", "label": 0}
+{"sentence1": "Read the assigned chapters before class.", "sentence2": "Course grades may be adjusted based on class performance.", "label": 0}
+{"sentence1": "Your lowest quiz scores are dropped.", "sentence2": "The syllabus is available on the course website.", "label": 0}
+{"sentence1": "Assignments must be done individually.", "sentence2": "Lab partners will be assigned in the first week of class.", "label": 0}
+{"sentence1": "Grades are posted to the online portal.", "sentence2": "Feedback will be provided orally in discussion sessions.", "label": 0}
+{"sentence1": "Exams will consist of multiple-choice questions only.", "sentence2": "Group presentations are scheduled for the end of the semester.", "label": 0}
+{"sentence1": "You must attend discussion sections.", "sentence2": "Bring your own iClicker for every lecture.", "label": 0}
+{"sentence1": "No late work is accepted for any reason.", "sentence2": "Extra credit opportunities will be announced in lecture sessions.", "label": 0}
+{"sentence1": "Use of laptops is not permitted in class.", "sentence2": "All papers must use APA citation format.", "label": 0}
+{"sentence1": "If a test is missed, it counts as zero.", "sentence2": "Support for students with disabilities is available through the academic resource center.", "label": 0}
+{"sentence1": "The course textbook is required reading.", "sentence2": "The lab manual can be found in the library reference section.", "label": 0}
+{"sentence1": "Students will write a research proposal.", "sentence2": "Short answer quizzes will be administered regularly.", "label": 0}
+{"sentence1": "TA office hours are on Wednesdays.", "sentence2": "The final exam will be comprehensive.", "label": 0}
+{"sentence1": "Lecture notes are posted online after class.", "sentence2": "Homeworks are submitted every Tuesday.", "label": 0}
+{"sentence1": "Complete your student info form and upload it to Blackboard.", "sentence2": "Weekly group meetings are held for all semester projects.", "label": 0}
+{"sentence1": "Class meets in Welch 2.224 for every session.", "sentence2": "You can access last year's final exam for practice.", "label": 0}
+{"sentence1": "Lab safety training is mandatory for all science students.", "sentence2": "Attendance will be tracked through electronic check-in.", "label": 0}
+{"sentence1": "Bring a pen and paper to class for note-taking.", "sentence2": "Assignment extensions must be approved in advance by the instructor.", "label": 0}
+{"sentence1": "How many credit hours is this course worth?", "sentence2": "What is the name of the Instructor?", "label": 0}
+{"sentence1": "What is the name of the professor?", "sentence2": "What is the name of the TA?", "label": 0}
+{"sentence1": "Who is the TA for this class?", "sentence2": "When are the professor\u2019s office hours?", "label": 0}
+{"sentence1": "When are the professor's office hours?", "sentence2": "What is the required textbook for this course?", "label": 0}
+{"sentence1": "What is the required textbook for this course?", "sentence2": "How will my grade be calculated?", "label": 0}
+{"sentence1": "When are assignments due?", "sentence2": "When are the exams scheduled?", "label": 0}
+{"sentence1": "What is the date of the final exam?", "sentence2": "Are late assignments accepted in this class?", "label": 0}
+{"sentence1": "Are late assignments accepted in this class?", "sentence2": "Is attendance mandatory for this course?", "label": 0}
+{"sentence1": "Is attendance mandatory for this course?", "sentence2": "How can I contact the instructor?", "label": 0}
+{"sentence1": "How can I contact the instructor?", "sentence2": "What is the academic integrity policy for this course?", "label": 0}
+{"sentence1": "What is considered cheating in this course?", "sentence2": "How do I request special accommodations?", "label": 0}
+{"sentence1": "What should I do if I have a documented disability?", "sentence2": "Can I make up missed exams or assignments?", "label": 0}
+{"sentence1": "Are makeup quizzes allowed if I am sick?", "sentence2": "How many credit hours is this course worth?", "label": 0}
+{"sentence1": "When are the TA's office hours?", "sentence2": "How will my grade be calculated?", "label": 0}
+{"sentence1": "How will my grade be calculated?", "sentence2": "What is the required textbook for this course?", "label": 0}
+{"sentence1": "When are the exams scheduled?", "sentence2": "What is the best way to ask the professor questions?", "label": 0}
+{"sentence1": "What is the name of the TA?", "sentence2": "The course number is ECE:2456.", "label": 0}
+{"sentence1": "What is the name of the Instructor?", "sentence2": "You can attend lab on Thursdays.", "label": 0}
+{"sentence1": "What is the professor's name?", "sentence2": "Quizzes will be every other week.", "label": 0}
+{"sentence1": "What is the lecturer's name?", "sentence2": "Late assignments lose 10% per day.", "label": 0}
+{"sentence1": "Who are the teaching assistants for this course?", "sentence2": "Please register for the class discussion forum.", "label": 0}
+{"sentence1": "What are the TA's names?", "sentence2": "The midterm exam is on October 12th.", "label": 0}
+{"sentence1": "How many credit hours is this course worth?", "sentence2": "The instructor's office is Room 221.", "label": 0}
+{"sentence1": "What are the credit hours for this course?", "sentence2": "The required reading is posted on Blackboard.", "label": 0}
+{"sentence1": "What is the credit hour value of this course?", "sentence2": "Class meets in Room 110, Johnson Hall.", "label": 0}
+{"sentence1": "When are the professor's office hours?", "sentence2": "Final grades will be posted in December.", "label": 0}
+{"sentence1": "What time can I meet the instructor for office hours?", "sentence2": "The syllabus is available online.", "label": 0}
+{"sentence1": "Where can I find the professor during office hours?", "sentence2": "Textbooks must be purchased by week two.", "label": 0}
+{"sentence1": "When are the TA\u2019s office hours?", "sentence2": "You may use a calculator during exams.", "label": 0}
+{"sentence1": "Where does the teaching assistant meet with students?", "sentence2": "All assignments are submitted online.", "label": 0}
+{"sentence1": "What is the required textbook for this course?", "sentence2": "The exam is scheduled for Thursday afternoon.", "label": 0}
+{"sentence1": "Are there any required course materials?", "sentence2": "You will need to register for recitation sections.", "label": 0}
+{"sentence1": "How will my grade be calculated?", "sentence2": "Labs begin during the second week of class.", "label": 0}
+{"sentence1": "What are the grade components for this class?", "sentence2": "Class attendance is required each day.", "label": 0}
+{"sentence1": "What is the course number?", "sentence2": "Lab attendance is mandatory every Thursday.", "label": 0}
+{"sentence1": "What is the course title?", "sentence2": "The midterm exam covers chapters 3 through 6.", "label": 0}
+{"sentence1": "Which department offers this course?", "sentence2": "Final projects are due by December 5th.", "label": 0}
+{"sentence1": "In which semester is this class available?", "sentence2": "Office hours for the TA are on Tuesdays.", "label": 0}
+{"sentence1": "What section is this course?", "sentence2": "Lecture notes can be found on the website.", "label": 0}
+{"sentence1": "Is this an online course or in-person class?", "sentence2": "Homework is submitted at the start of each class.", "label": 0}
+{"sentence1": "How many credit hours does this course have?", "sentence2": "The course instructor has a PhD from Caltech.", "label": 0}
+{"sentence1": "Does the class have a required lab each week?", "sentence2": "The recommended reading list includes three novels.", "label": 0}
+{"sentence1": "Who is listed as the course director?", "sentence2": "If you are ill, contact the health center.", "label": 0}
+{"sentence1": "How many students can enroll in this class?", "sentence2": "All assignments must use APA format.", "label": 0}
+{"sentence1": "Where can I access the course portal?", "sentence2": "Students may use calculators during exams.", "label": 0}
+{"sentence1": "What\u2019s the unique ID for this course?", "sentence2": "Late assignments are accepted with a penalty.", "label": 0}
+{"sentence1": "Does this course satisfy any major requirements?", "sentence2": "All exams are scheduled in the gymnasium.", "label": 0}
+{"sentence1": "Is there a prerequisite for this class?", "sentence2": "Lecture recordings will be available online later.", "label": 0}
+{"sentence1": "Where is the classroom located?", "sentence2": "Extra credit opportunities will be announced periodically.", "label": 0}
+{"sentence1": "What are the days and times for lectures?", "sentence2": "Collaboration is not permitted on take-home exams.", "label": 0}
+{"sentence1": "How many units do I earn by completing this course?", "sentence2": "Group projects will be peer-assessed.", "label": 0}
+{"sentence1": "What is the primary language of instruction?", "sentence2": "Students should check their grades weekly.", "label": 0}
+{"sentence1": "Who is the main contact for course administration?", "sentence2": "Plagiarism is grounds for disciplinary action.", "label": 0}
+{"sentence1": "Is this course cross-listed with any other department?", "sentence2": "Discussion section attendance is optional.", "label": 0}
+{"sentence1": "Who is the professor?", "sentence2": "Credit Hours: 3", "label": 0}
+{"sentence1": "Who is the lecturer?", "sentence2": "Office hours are held in room 201.", "label": 0}
+{"sentence1": "Who is the faculty member teaching this class?", "sentence2": "All assignments are due Friday at midnight.", "label": 0}
+{"sentence1": "Who is the instructor for this course?", "sentence2": "The required textbook is Fundamentals of Biology.", "label": 0}
+{"sentence1": "Who is the TA?", "sentence2": "Professor: Dr. Maria Rojas", "label": 0}
+{"sentence1": "Who is the Graduate Assistant?", "sentence2": "Please attend lab section on Mondays.", "label": 0}
+{"sentence1": "Who is the teaching assistant for this course?", "sentence2": "Lectures are held in Smith Hall, Room 210.", "label": 0}
+{"sentence1": "How many credit hours is this course?", "sentence2": "Teaching Assistant: Jamal Carter", "label": 0}
+{"sentence1": "What are the semester hours for this course?", "sentence2": "Consultation Time: Monday 2-3pm", "label": 0}
+{"sentence1": "When are the instructor's office hours?", "sentence2": "Semester Hours: 3", "label": 0}
+{"sentence1": "What is the consultation time for the professor?", "sentence2": "The final exam will be on May 9th.", "label": 0}
+{"sentence1": "What is the name of the instructor?", "sentence2": "Mondays and Wednesdays: 2-2:50 pm", "label": 0}
+{"sentence1": "Who is the course instructor?", "sentence2": "Room : Science Hall 201", "label": 0}
+{"sentence1": "What is the instructor's email?", "sentence2": "Office hours: Thursdays 1-3pm or by appointment", "label": 0}
+{"sentence1": "What is the name of the TA?", "sentence2": "Course materials: All readings are posted on Canvas.", "label": 0}
+{"sentence1": "Who is the teaching assistant for this course?", "sentence2": "Office: 141 Chemistry Building", "label": 0}
+{"sentence1": "What is the professor's name?", "sentence2": "Required book: Concepts in Chemical Biology by Fisher & Yates, 2nd ed.", "label": 0}
+{"sentence1": "Who is listed as the course instructor?", "sentence2": "Final exam date: December 12th, 10:00 am", "label": 0}
+{"sentence1": "Who are the teaching assistants?", "sentence2": "Prerequisite: MATH 101 or equivalent", "label": 0}
+{"sentence1": "What is the email address for the TA?", "sentence2": "Class website: https://university.edu/coursepage", "label": 0}
+{"sentence1": "Who are the instructors?", "sentence2": "The TAs are Emma Liu, Rachel Bell, and Ivan Joshi.", "label": 0}
+{"sentence1": "Who is the teaching faculty?", "sentence2": "Required reading: Algorithms Unlocked, Cormen.", "label": 0}
+{"sentence1": "Who is the main instructor?", "sentence2": "Lab supervisor: Mr. Jorge Blais, Office: AH 110.", "label": 0}
+{"sentence1": "Who is the teacher for this course?", "sentence2": "Discussion sections meet Thursdays in Hall C.", "label": 0}
+{"sentence1": "Who is the faculty for this class?", "sentence2": "For grading rubrics, see the syllabus appendix.", "label": 0}
+{"sentence1": "Who are the lecturers?", "sentence2": "Course website is available on Blackboard Learn.", "label": 0}
+{"sentence1": "Who are the professors for ECON 204?", "sentence2": "The graduate assistant is John Eckstein.", "label": 0}
+{"sentence1": "Who are the instructors for this course?", "sentence2": "TA office hours are posted online for your convenience.", "label": 0}
+{"sentence1": "Who are the course faculty?", "sentence2": "Your scheduled recitation leader is Mr. Linus Adams.", "label": 0}
+{"sentence1": "Who is the instructor team?", "sentence2": "Assignments are to be submitted via Gradescope.", "label": 0}
+{"sentence1": "Who are the professors?", "sentence2": "Supplementary instructors: Mrs. Ruth Chase, Dr. Su Min Park.", "label": 0}
+{"sentence1": "Who is the faculty for section 5?", "sentence2": "All reading materials are provided on Canvas.", "label": 0}
+{"sentence1": "Who are the teaching instructors?", "sentence2": "Technical support: ithelp@univ.edu.", "label": 0}
+{"sentence1": "Who is leading instruction?", "sentence2": "TA hours: Mondays and Wednesdays at 3pm.", "label": 0}
+{"sentence1": "Who are the faculty of record?", "sentence2": "You must attend the final presentation day.", "label": 0}
+{"sentence1": "Who are the academic instructors?", "sentence2": "Lab coordinator: Mr. George Ashby.", "label": 0}
+{"sentence1": "Who are the main faculty members?", "sentence2": "Your study group will be assigned Week 2.", "label": 0}
+{"sentence1": "Who are the instructors for this section?", "sentence2": "Section's TA: Noor Ahmed, Office: 212B.", "label": 0}
+{"sentence1": "Who are the co-instructors?", "sentence2": "Please sign up for the weekly help clinic.", "label": 0}
+{"sentence1": "Who are the professors for this class?", "sentence2": "Final project guidelines will be distributed next week.", "label": 0}
+{"sentence1": "Who are the course instructors?", "sentence2": "For disability services, email access@univ.edu.", "label": 0}
+{"sentence1": "Who facilitates the class?", "sentence2": "Contact the department assistant for scheduling.", "label": 0}
+{"sentence1": "Who is listed as instructor?", "sentence2": "The head TA is Gina Luo, ginluo@school.edu.", "label": 0}
+{"sentence1": "Who is the teaching professor?", "sentence2": "Class meets every Monday and Thursday.", "label": 0}
+{"sentence1": "Who are the faculty leading this course?", "sentence2": "Exam rescheduling requires documentation.", "label": 0}
+{"sentence1": "Who are the lecture instructors?", "sentence2": "Peer tutors: Alex Han, Latoya Bowes.", "label": 0}
+{"sentence1": "Who are the professors for section 2?", "sentence2": "Program coordinator: Mr. Faizul Islam.", "label": 0}
+{"sentence1": "Who are the teaching staff?", "sentence2": "Weekly quizzes are due by Friday online.", "label": 0}
+{"sentence1": "Who are the course faculty?", "sentence2": "All lab data must be submitted before leaving the room.", "label": 0}
+{"sentence1": "Who is the course taught by?", "sentence2": "For technical questions, contact the program engineer.", "label": 0}
+{"sentence1": "What are the TA's names?", "sentence2": "The course instructor is Dr. Sarah Hampton.", "label": 0}
+{"sentence1": "Who are the teaching assistants for this course?", "sentence2": "Lecture is held in room 220 every Tuesday.", "label": 0}
+{"sentence1": "What are the TA's names?", "sentence2": "You may contact the professor at pmartin@univ.edu.", "label": 0}
+{"sentence1": "Who are the teaching assistants for this course?", "sentence2": "This class is worth four credit hours.", "label": 0}
+{"sentence1": "What are the TA's names?", "sentence2": "Office hours: Monday and Thursday from 1-2 pm.", "label": 0}
+{"sentence1": "Who are the teaching assistants for this course?", "sentence2": "The main textbook is 'Econometrics in Action'.", "label": 0}
+{"sentence1": "What are the TA's names?", "sentence2": "This course's section leader is Dr. Kenita Ray.", "label": 0}
+{"sentence1": "Who are the teaching assistants for this course?", "sentence2": "Required readings will be posted to Canvas.", "label": 0}
+{"sentence1": "What are the TA's names?", "sentence2": "Midterm exam will be on March 11th.", "label": 0}
+{"sentence1": "Who are the teaching assistants for this course?", "sentence2": "Final grades are posted on the university portal.", "label": 0}
+{"sentence1": "What are the TA's names?", "sentence2": "Instructor: Dr. Wei Li. Email: wli@school.edu.", "label": 0}
+{"sentence1": "Who are the teaching assistants for this course?", "sentence2": "The course meets Mondays at 3pm in Hilbert Hall.", "label": 0}
+{"sentence1": "What are the TA's names?", "sentence2": "Consultation time is scheduled for Tuesdays, 10am-12pm.", "label": 0}
+{"sentence1": "Who are the teaching assistants for this course?", "sentence2": "Your lab instructor is Dr. Peter Mendez.", "label": 0}
+{"sentence1": "What are the TA's names?", "sentence2": "The class will be taught in a hybrid format.", "label": 0}
+{"sentence1": "Who are the teaching assistants for this course?", "sentence2": "Registration deadline is September 2nd.", "label": 0}
+{"sentence1": "What are the TA's names?", "sentence2": "The project presentation will be the final week of class.", "label": 0}
+{"sentence1": "Who are the teaching assistants for this course?", "sentence2": "Credit hours for this course: 3.", "label": 0}
+{"sentence1": "What are the TA's names?", "sentence2": "The course website can be found via Blackboard.", "label": 0}
+{"sentence1": "Who are the teaching assistants for this course?", "sentence2": "Please refer to the syllabus for prerequisites.", "label": 0}
+{"sentence1": "What are the TA's names?", "sentence2": "TA applications for next semester open in April.", "label": 0}
+{"sentence1": "Who are the teaching assistants for this course?", "sentence2": "Instructor: Prof. J. Oliver, Room 310.", "label": 0}
+{"sentence1": "What are the TA's names?", "sentence2": "Discussion sections are on Thursdays.", "label": 0}
+{"sentence1": "Who are the teaching assistants for this course?", "sentence2": "Office hour location: Science 203.", "label": 0}
+{"sentence1": "What are the TA's names?", "sentence2": "All homework is due on Fridays, submitted through the portal.", "label": 0}
+{"sentence1": "Who are the teaching assistants for this course?", "sentence2": "Guest lectures are scheduled for October.", "label": 0}
+{"sentence1": "What are the TA's names?", "sentence2": "Professor emails weekly updates to all students.", "label": 0}
+{"sentence1": "Who are the teaching assistants for this course?", "sentence2": "Academic honesty guidelines must be followed.", "label": 0}
+{"sentence1": "What are the TA's names?", "sentence2": "Review sessions are available before each exam.", "label": 0}
+{"sentence1": "Who are the teaching assistants for this course?", "sentence2": "Adjunct faculty: Ms. Pilar Ramos.", "label": 0}
+{"sentence1": "How many credit hours is this course?", "sentence2": "The instructor for this course is Prof. Jenny Wu.", "label": 0}
+{"sentence1": "What are the credit hours for this class?", "sentence2": "TAs: Omar Shakir and Lisa Bell.", "label": 0}
+{"sentence1": "How many semester hours do I receive?", "sentence2": "Classes meet on Wednesdays at 1pm in Hall B205.", "label": 0}
+{"sentence1": "What is the course's credit hour value?", "sentence2": "Consultation time is Friday afternoon.", "label": 0}
+{"sentence1": "State the number of credit hours.", "sentence2": "Office hours: Mon/Thu, 9:30-11AM.", "label": 0}
+{"sentence1": "How many semester hours will I earn?", "sentence2": "Required text: Calculus by Armitage and Gardiner.", "label": 0}
+{"sentence1": "What are the credit hours for this course?", "sentence2": "Final grades are posted after the final exam.", "label": 0}
+{"sentence1": "Please indicate the semester hour value.", "sentence2": "The lab is mandatory and starts Week 2.", "label": 0}
+{"sentence1": "How many credits is this class?", "sentence2": "This class includes a group presentation component.", "label": 0}
+{"sentence1": "How many credit hours does it carry?", "sentence2": "Contact technical support for online portal issues.", "label": 0}
+{"sentence1": "What is the class's credit hour?", "sentence2": "Exams are on Canvas and require a webcam.", "label": 0}
+{"sentence1": "How many semester credits is this?", "sentence2": "Your group project presentation is Week 13.", "label": 0}
+{"sentence1": "State the credit hour load for this section.", "sentence2": "Peer tutors are available free of charge.", "label": 0}
+{"sentence1": "How many credit hours do I get?", "sentence2": "See syllabus for makeup exam policy.", "label": 0}
+{"sentence1": "What is the number of semester hours?", "sentence2": "Instructor email: fmartin@westuniv.edu.", "label": 0}
+{"sentence1": "What are the credit hours for this subject?", "sentence2": "Lab notebook checks are performed monthly.", "label": 0}
+{"sentence1": "How many hours of credit does this course offer?", "sentence2": "Section 1 is taught by Dr. Olanrewaju.", "label": 0}
+{"sentence1": "How many hours is this course for?", "sentence2": "Reading list includes Miller, Nash, and Chan texts.", "label": 0}
+{"sentence1": "Specify the credit hours.", "sentence2": "Bring a calculator to all exams.", "label": 0}
+{"sentence1": "Tell me the semester hours for this course.", "sentence2": "All questions should be posted to Piazza.", "label": 0}
+{"sentence1": "What is the credit value?", "sentence2": "Lectures are pre-recorded and available on Mondays.", "label": 0}
+{"sentence1": "What is the semester hours total?", "sentence2": "Attendance is taken using the online form.", "label": 0}
+{"sentence1": "How many academic credit hours?", "sentence2": "Graduate assistants: Anna Singh and Claude White.", "label": 0}
+{"sentence1": "Give the credit hour amount.", "sentence2": "This class is cross-listed as HIST 320.", "label": 0}
+{"sentence1": "Course credit hours?", "sentence2": "Team project: Due by April 8th, submitted on Canvas.", "label": 0}
+{"sentence1": "Credit value for this class?", "sentence2": "Field trip is scheduled for October 16th.", "label": 0}
+{"sentence1": "What's the credit hour designation?", "sentence2": "All homework is to be submitted before lecture.", "label": 0}
+{"sentence1": "Number of semester hours?", "sentence2": "Supplemental instruction sessions available each week.", "label": 0}
+{"sentence1": "What is the unit value in credit hours?", "sentence2": "The midterm will be held on March 12th.", "label": 0}
+{"sentence1": "List the total credit hours.", "sentence2": "Final paper guidelines are on Blackboard.", "label": 0}
+{"sentence1": "What is the semester credit hour award?", "sentence2": "You must attend at least ten seminars.", "label": 0}
+{"sentence1": "How many credits is this offered for?", "sentence2": "Use of cellphones is not allowed during class.", "label": 0}
+{"sentence1": "What is the course\u2019s credit hour value?", "sentence2": "Please sign up for recitation online.", "label": 0}
+{"sentence1": "How many semester hour units?", "sentence2": "For accessibility services, email sfsupport@univ.edu.", "label": 0}
+{"sentence1": "How many credits per semester?", "sentence2": "Textbook is available as a free PDF download.", "label": 0}
+{"sentence1": "For how many credit hours?", "sentence2": "This course uses the university\u2019s standard grading scale.", "label": 0}
+{"sentence1": "What\u2019s the semester hour amount?", "sentence2": "Peer review feedback is due next Thursday.", "label": 0}
+{"sentence1": "State the number of course credits.", "sentence2": "The group leader is responsible for all submissions.", "label": 0}
+{"sentence1": "What is the official credit hours?", "sentence2": "You may request an extension for up to 2 days.", "label": 0}
+{"sentence1": "Credit hour count?", "sentence2": "Review sessions are offered before each exam.", "label": 0}
+{"sentence1": "How many semester credit hours?", "sentence2": "Past syllabi are archived for reference.", "label": 0}
+{"sentence1": "What is the student credit value?", "sentence2": "Please check your campus email for announcements.", "label": 0}
+{"sentence1": "How many units in credit hours?", "sentence2": "Course facilitators: M. Olsen and Dr. Takeda.", "label": 0}
+{"sentence1": "Credit hours assigned?", "sentence2": "Lab assignments are due by Sunday at 7pm.", "label": 0}
+{"sentence1": "What is the semester hour load?", "sentence2": "Advising drop-in hours are every Friday morning.", "label": 0}
+{"sentence1": "How many credits by semester?", "sentence2": "All students must submit proof of health insurance.", "label": 0}
+{"sentence1": "How many official credit hours?", "sentence2": "Laptop required for weekly coding exercises.", "label": 0}
+{"sentence1": "What is the semester hour credit?", "sentence2": "All recitations begin Week 3.", "label": 0}
+{"sentence1": "How many credit hours are awarded?", "sentence2": "Please refer to the course calendar for deadlines.", "label": 0}
+{"sentence1": "What is the name of the TA?", "sentence2": "The instructor for this class is Dr. Helena Aristov.", "label": 0}
+{"sentence1": "Who is the TA?", "sentence2": "Lectures will be held in Room 314, Tuesdays and Thursdays at 8am.", "label": 0}
+{"sentence1": "What is the name of the Teaching Assistant?", "sentence2": "Office hours are Wednesdays from 1\u20133pm.", "label": 0}
+{"sentence1": "Who is my TA?", "sentence2": "The main textbook is 'Microbiology: A Human Perspective' by Nester.", "label": 0}
+{"sentence1": "What's the TA's name?", "sentence2": "Final grade will be based on two midterms and a project.", "label": 0}
+{"sentence1": "Please provide the TA's name.", "sentence2": "Course credit hours: 3.", "label": 0}
+{"sentence1": "Can you tell me the TA's name?", "sentence2": "Please check Canvas for assignment deadlines.", "label": 0}
+{"sentence1": "Name the TA for this course.", "sentence2": "For lab safety training, contact instructor.", "label": 0}
+{"sentence1": "Who is the graduate assistant?", "sentence2": "You may schedule professor consultation by appointment.", "label": 0}
+{"sentence1": "Who should I contact as TA?", "sentence2": "Class participation is worth 10% of your grade.", "label": 0}
+{"sentence1": "Who are the assistants for this class?", "sentence2": "The library hours are extended until midnight during finals.", "label": 0}
+{"sentence1": "What is the TA's name?", "sentence2": "Class is team-taught by Prof. Kelvin Chen and Dr. Rosa DeLeon.", "label": 0}
+{"sentence1": "What's the teaching assistant's name?", "sentence2": "All homework must be submitted online via the portal.", "label": 0}
+{"sentence1": "Who is the TA for this section?", "sentence2": "Lab takes place Mondays 2\u20134pm in Room 216.", "label": 0}
+{"sentence1": "Please identify the TA.", "sentence2": "The required software is available for free download.", "label": 0}
+{"sentence1": "What is the TA's official name?", "sentence2": "All recitation sessions are optional.", "label": 0}
+{"sentence1": "Who is acting as teaching assistant?", "sentence2": "This course is offered only during the spring semester.", "label": 0}
+{"sentence1": "Name the assigned TA.", "sentence2": "Group project members will be assigned in week 4.", "label": 0}
+{"sentence1": "Could you provide the TA's name?", "sentence2": "The professor for this class is Dr. Lisa Jung.", "label": 0}
+{"sentence1": "Who is listed as the TA?", "sentence2": "Midterm is scheduled for October 12th.", "label": 0}
+{"sentence1": "Who is the course TA?", "sentence2": "Exam review sessions will be on Sunday evenings.", "label": 0}
+{"sentence1": "TA's name?", "sentence2": "Email all questions about grading to the instructor.", "label": 0}
+{"sentence1": "What is the TA's name for this term?", "sentence2": "The class syllabus is posted on Blackboard.", "label": 0}
+{"sentence1": "Who is the teaching assistant this semester?", "sentence2": "Late work is not accepted unless you have prior approval.", "label": 0}
+{"sentence1": "Who is the assistant for this class?", "sentence2": "Lab notebook checks are due every other week.", "label": 0}
+{"sentence1": "Please give the TA name.", "sentence2": "Contact the academic advisor for degree planning.", "label": 0}
+{"sentence1": "TA for this course?", "sentence2": "Course registration closes on January 26th.", "label": 0}
+{"sentence1": "Who are the teaching assistants?", "sentence2": "Program director: Prof. Muriel Goodwin.", "label": 0}
+{"sentence1": "Who is the laboratory TA?", "sentence2": "Lab equipment must be returned by the end of each session.", "label": 0}
+{"sentence1": "Who can I contact as TA?", "sentence2": "All lectures will be recorded and posted within 48 hours.", "label": 0}
+{"sentence1": "Who is my TA contact?", "sentence2": "Attendance is mandatory in all discussion sessions.", "label": 0}
+{"sentence1": "Who is scheduled as TA?", "sentence2": "Please send all accessibility requests to dso@university.edu.", "label": 0}
+{"sentence1": "Who are the TAs for section 2?", "sentence2": "TA applications are reviewed every March.", "label": 0}
+{"sentence1": "TA's name for lab?", "sentence2": "The lab report is due two days after the experiment.", "label": 0}
+{"sentence1": "Provide the TA's contact name.", "sentence2": "Faculty: Dr. Marina Pelayo.", "label": 0}
+{"sentence1": "List the TA.", "sentence2": "Please bring a calculator for all exams.", "label": 0}
+{"sentence1": "Who is listed as teaching assistant?", "sentence2": "Academic honesty guidelines are outlined in the syllabus.", "label": 0}
+{"sentence1": "Which graduate assistants are assigned?", "sentence2": "No food or drink is allowed in the classroom.", "label": 0}
+{"sentence1": "What is the TA's name for the class?", "sentence2": "Reading responses must be posted by Friday.", "label": 0}
+{"sentence1": "Who is in the TA team?", "sentence2": "Course is cross-listed as HIST 340 and SOC 341.", "label": 0}
+{"sentence1": "Who are the main TAs?", "sentence2": "The project proposal is due in week 7.", "label": 0}
+{"sentence1": "Who is your TA?", "sentence2": "The exam will cover Chapters 1\u20135.", "label": 0}
+{"sentence1": "Who are the lab assistants?", "sentence2": "All makeup exams require documentation.", "label": 0}
+{"sentence1": "What is the TA name?", "sentence2": "Class begins August 29; see online calendar for all important dates.", "label": 0}
+{"sentence1": "Provide the teaching assistant's name.", "sentence2": "Final exams are cumulative and closed book.", "label": 0}
+{"sentence1": "Who is the class TA?", "sentence2": "Office: Science Hall room 211.", "label": 0}
+{"sentence1": "What is the TA's official designation?", "sentence2": "Each group should submit one digital poster by May 2.", "label": 0}
+{"sentence1": "Which TAs are assigned for my section?", "sentence2": "Weekly quizzes are held at the start of every Friday lab.", "label": 0}
+{"sentence1": "Who is the current TA?", "sentence2": "For IT help, contact campus support desk.", "label": 0}
+{"sentence1": "Who is currently the teaching assistant?", "sentence2": "The department will host a career workshop next month.", "label": 0}
+{"sentence1": "Who is the instructor?", "sentence2": "Teaching assistants for this course are Priya Raman and Kevin Blair.", "label": 0}
+{"sentence1": "What is the professor's name?", "sentence2": "Final exams will be held on December 12.", "label": 0}
+{"sentence1": "Who is the lecturer for this class?", "sentence2": "Credit hours for this class: three.", "label": 0}
+{"sentence1": "Who is the instructor for this course?", "sentence2": "Please consult the course website for handouts.", "label": 0}
+{"sentence1": "What is the name of the teacher?", "sentence2": "All homework assignments must be submitted on Canvas.", "label": 0}
+{"sentence1": "Who are the instructors?", "sentence2": "TAs: Justin Torres, Sara Klein, and Yasmin Dash.", "label": 0}
+{"sentence1": "Who is the course professor?", "sentence2": "Section 2 meets Mondays and Wednesdays in Hall 101.", "label": 0}
+{"sentence1": "Can you tell me the professor's name?", "sentence2": "The course will use the online textbook by Tan and Klein.", "label": 0}
+{"sentence1": "Please state who the faculty are.", "sentence2": "Lab assistant: Myra Ghosh.", "label": 0}
+{"sentence1": "Who is the teaching faculty member?", "sentence2": "Discussion section has mandatory attendance.", "label": 0}
+{"sentence1": "Who is the main lecturer?", "sentence2": "The midterm exam will be on October 17th.", "label": 0}
+{"sentence1": "What is the official instructor's name?", "sentence2": "All students must sign up for weekly study groups.", "label": 0}
+{"sentence1": "Who is the faculty for section 2?", "sentence2": "The main contact for grade appeals is the graduate assistant.", "label": 0}
+{"sentence1": "Who is the assigned professor?", "sentence2": "Class projects are due in Week 11.", "label": 0}
+{"sentence1": "Who is the class instructor?", "sentence2": "Labs begin the week of January 22nd.", "label": 0}
+{"sentence1": "Please provide the name of the course leader.", "sentence2": "The group assignment is a research poster.", "label": 0}
+{"sentence1": "Who is the main instructor?", "sentence2": "Lecture slides will be posted after each session.", "label": 0}
+{"sentence1": "What is the teacher's name?", "sentence2": "Office: Room 409, Science Building.", "label": 0}
+{"sentence1": "Can you tell me the instructor?", "sentence2": "Class meeting times: Tue 9-11am.", "label": 0}
+{"sentence1": "Who is the lecturer for ECON101?", "sentence2": "Required book: Microeconomics, 9th edition.", "label": 0}
+{"sentence1": "Who teaches this course?", "sentence2": "Student support is available at the Academic Success Center.", "label": 0}
+{"sentence1": "What is the course faculty name?", "sentence2": "Email responses may take up to 48 hours.", "label": 0}
+{"sentence1": "Who are the professors for the semester?", "sentence2": "Lab safety training is required for all lab sections.", "label": 0}
+{"sentence1": "Who is the instructor on record?", "sentence2": "Next week there will be a guest seminar.", "label": 0}
+{"sentence1": "Who is leading the lectures?", "sentence2": "Recitation sessions start in March.", "label": 0}
+{"sentence1": "Please list the teacher.", "sentence2": "Attendance is part of the participation grade.", "label": 0}
+{"sentence1": "Who is the main course professor?", "sentence2": "The class is cross-listed as HIST 204.", "label": 0}
+{"sentence1": "Who is the faculty assigned?", "sentence2": "The main TA is Amanda Gross.", "label": 0}
+{"sentence1": "Who is the instructor assigned?", "sentence2": "Class participation counts toward your final grade.", "label": 0}
+{"sentence1": "Who is the course teacher?", "sentence2": "Students with disabilities should contact DSS.", "label": 0}
+{"sentence1": "Who are the section lecturers?", "sentence2": "Quizzes are available online every Friday.", "label": 0}
+{"sentence1": "What is the name of the professor?", "sentence2": "Please bring a calculator for all exams.", "label": 0}
+{"sentence1": "Who is the assigned lecturer?", "sentence2": "All make-up exams require documented proof.", "label": 0}
+{"sentence1": "Who are the teaching faculty?", "sentence2": "Graded papers will be returned every week.", "label": 0}
+{"sentence1": "Who is the teacher for Session A?", "sentence2": "Section A TA: Benz Nguyen.", "label": 0}
+{"sentence1": "Who is the primary instructor?", "sentence2": "Classroom: Science Annex room 120.", "label": 0}
+{"sentence1": "Who is the professor in charge?", "sentence2": "Lab partners will rotate every two weeks.", "label": 0}
+{"sentence1": "Who are the course instructors?", "sentence2": "For access to accommodations, email access@univ.edu.", "label": 0}
+{"sentence1": "Who is the main instructor for this class?", "sentence2": "Class notes are available on the Canvas site.", "label": 0}
+{"sentence1": "List the professor.", "sentence2": "The department office is in Room 301.", "label": 0}
+{"sentence1": "Who leads the instruction?", "sentence2": "Students must wear lab coats for experiments.", "label": 0}
+{"sentence1": "Identify the instructor.", "sentence2": "All students are required to complete online modules.", "label": 0}
+{"sentence1": "Who is the lecture professor this semester?", "sentence2": "Extra credit assignments are optional.", "label": 0}
+{"sentence1": "Who is the faculty instructor?", "sentence2": "The recitation leader is Samira Bahjat.", "label": 0}
+{"sentence1": "Who are the main teachers for this subject?", "sentence2": "The exam review sessions are held on Sunday nights.", "label": 0}
+{"sentence1": "Who's the lead instructor?", "sentence2": "For syllabus corrections, contact the department office.", "label": 0}
+{"sentence1": "Who is the professor?", "sentence2": "Lab practical is worth 15% of your grade.", "label": 0}
+{"sentence1": "Who is the session lecturer?", "sentence2": "By university policy, laptops must be registered for use in exams.", "label": 0}
+{"sentence1": "Who teaches this section?", "sentence2": "Check the bulletin board for scholarship opportunities.", "label": 0}
+{"sentence1": "Who is the instructor?", "sentence2": "Teaching Assistant: Jamal Dorsey | Office: Thursday 10\u201312 in MLH 204 | Section leader: Kerry Liu", "label": 0}
+{"sentence1": "What is the name of the teaching assistant?", "sentence2": "Office hours: Prof. Jane Choi, Tuesday at 3pm in J201.", "label": 0}
+{"sentence1": "Who is the TA for this course?", "sentence2": "This course is worth three semester hours. Required readings posted on Canvas.", "label": 0}
+{"sentence1": "Please provide the professor's name.", "sentence2": "Class meets Mon/Wed 2\u20133:15 in Branson Hall 303. TA: Mark O'Neal", "label": 0}
+{"sentence1": "Who is the Graduate Assistant?", "sentence2": "Consultation Time: Monday afternoon, Room 400B. Professor: Karen Stallman", "label": 0}
+{"sentence1": "Who is the faculty for CS 205?", "sentence2": "Attendance is required in all labs. The TA will take roll.", "label": 0}
+{"sentence1": "Who is the lecturer for this class?", "sentence2": "Semester hours: 4. Section B. Required course for all majors.", "label": 0}
+{"sentence1": "Who is the instructor of record?", "sentence2": "Graders: Alan Yu and Denise Chen. Email all concerns to cscsupport@dept.edu", "label": 0}
+{"sentence1": "List the consultation time for the professor.", "sentence2": "Graduate Assistant: Sandra Boone; Office: ML117; Email: sboone@main.edu", "label": 0}
+{"sentence1": "When are office hours for the lecturer?", "sentence2": "Class lectures: Tues/Thurs 9\u201310:15AM | Location: North Campus 102", "label": 0}
+{"sentence1": "How many credit hours do I earn?", "sentence2": "TA: Christine Kim (christine.kim@myuniv.edu), discussion on Wednesdays 5\u20136pm room 110", "label": 0}
+{"sentence1": "What are the semester hours for this course?", "sentence2": "Professor: J. Ma; Office: Science 403 | Hours: Thursday 3\u20134:15pm", "label": 0}
+{"sentence1": "How many credit hours is this class?", "sentence2": "All examinations will be proctored. Final grades available via portal.", "label": 0}
+{"sentence1": "What is the assigned faculty's name?", "sentence2": "TAs responsible for all grading; faculty to post announcements only.", "label": 0}
+{"sentence1": "Name the course lecturer.", "sentence2": "Submission of homework by email only. Use the form provided.", "label": 0}
+{"sentence1": "Who should I contact for consultation?", "sentence2": "All assignment questions must be posted on Piazza for fast answers.", "label": 0}
+{"sentence1": "Who is the TA for BIO101?", "sentence2": "Faculty: Prof. S. Iqbal | Office Hours: Thu 3-5pm | Email: info@bio.univ.edu", "label": 0}
+{"sentence1": "Who teaches the course?", "sentence2": "TA: Molly Grant | Lab Sessions: Friday in ALB 109; attendance is mandatory.", "label": 0}
+{"sentence1": "List the office hours for the faculty member.", "sentence2": "Final exam: May 5th, closed book, in SSB 344. See email for updates.", "label": 0}
+{"sentence1": "State the credit hours.", "sentence2": "Class period: Tuesdays and Thursdays, 10\u201311:15 AM. Required notebook.", "label": 0}
+{"sentence1": "Provide the name of the main faculty.", "sentence2": "Summer session instructor: Mr. Elias has withdrawn. Contact registrar for more info.", "label": 0}
+{"sentence1": "What is the lecturer's name for this section?", "sentence2": "TA for Section 3: Kai-Yu Chang | Email: kychang@mathuni.org", "label": 0}
+{"sentence1": "What is the name of the course professor?", "sentence2": "Lecture videos will be made available every Monday. Report technical errors to support.", "label": 0}
+{"sentence1": "List the teaching assistant for CHEM321.", "sentence2": "CHEM321  | Credits: 3 | Meeting time: Mon 9:30\u201312 | See syllabus for exam dates.", "label": 0}
+{"sentence1": "Identify the consultation time.", "sentence2": "Department: Classical Languages | Consult office for placement tests. No open consultations.", "label": 0}
+{"sentence1": "State the scheduled office hours.", "sentence2": "TA: Y. Daley. Labs: Tues/Thurs 9\u201310:15am; Room: Natural Science 112", "label": 0}
+{"sentence1": "What are the consultation hours for the graduate assistant?", "sentence2": "All graduate assistants attend seminar every second Friday (no office hours).", "label": 0}
+{"sentence1": "Who is the assigned TA?", "sentence2": "Professor: Dr. Norman Lim | Lectures: Tue/Thu 10:30\u201312. Attendance is mandatory.", "label": 0}
+{"sentence1": "What's the number of semester hours?", "sentence2": "Contact the finance office for tuition billing inquiries. Registration required.", "label": 0}
+{"sentence1": "What are the faculty office hours?", "sentence2": "Coursework is assigned weekly. Discussion board participation is graded.", "label": 0}
+{"sentence1": "Who is the professor for this session?", "sentence2": "Session II: Instructor unavailable after mid-semester. Report absences to advisor.", "label": 0}
+{"sentence1": "Who is the main lecturer?", "sentence2": "TA: Akash Patel; Office: KGE 111 | Duties: grading and workshops", "label": 0}
+{"sentence1": "List the teaching assistant's name.", "sentence2": "Textbook: Organic Chemistry, Jones 5th ed. ISBN 345988223.", "label": 0}
+{"sentence1": "Who is the Graduate Assistant for section 4?", "sentence2": "Section 4: Exams are on Wednesdays, 12pm in Turing 109.", "label": 0}
+{"sentence1": "State the course's consultant.", "sentence2": "Check website for technological support and signup deadlines.", "label": 0}
+{"sentence1": "What is the main faculty member's office hours?", "sentence2": "Main faculty is on leave in Fall 2023. Contact backup instructor.", "label": 0}
+{"sentence1": "When can I see the professor for office hours?", "sentence2": "Quizzes take place every Tuesday at 8:30am. TA will proctor.", "label": 0}
+{"sentence1": "When is the TA available for consultation?", "sentence2": "TA schedules are not available; email for individual appointments only.", "label": 0}
+{"sentence1": "Who is the main TA?", "sentence2": "Main GA: Cheryl Austin | Office hours by appointment only.", "label": 0}
+{"sentence1": "When are consultation hours for the instructor?", "sentence2": "Laboratory Time: Mondays 2\u20134, Room 334. No in-person instructor consultations.", "label": 0}
+{"sentence1": "State the course's credit value.", "sentence2": "Approved majors only. Students will be manually registered.", "label": 0}
+{"sentence1": "Who should be contacted for assistance?", "sentence2": "Technical assistance via helpdesk@campus.edu. Library hours 8am\u20138pm.", "label": 0}
+{"sentence1": "List the name of the course lecturer.", "sentence2": "Peer tutors available weekly\u2014see list posted in the graphics lab.", "label": 0}
+{"sentence1": "What are the professor's scheduled office hours?", "sentence2": "All program coordinators meet every 3rd Friday, Wilson 2nd floor.", "label": 0}
+{"sentence1": "What are the credit hours for this session?", "sentence2": "Session II, GEOG 155 | Instructor: Prof. Emma Geraghty | Exams are held online in spring.", "label": 0}
